@@ -20,6 +20,7 @@ public class BaseClass {
 	public Properties prop;
 
 	public BaseClass() {
+		
 		try {
 			FileInputStream fis = new FileInputStream("src/test/resources/config.properties");
 			prop = new Properties();
