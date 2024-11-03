@@ -1,0 +1,7 @@
+logs/*
+allure-results/*
+test-output/*
+reports/*
+target/*
+/target/
+/test-output/
